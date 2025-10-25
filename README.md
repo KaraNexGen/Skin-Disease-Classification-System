@@ -400,13 +400,13 @@ Output (7 disease classes)
 ---
 
 ## 13. OUTPUT
-![Image](images/image1.png)
-![Image](images/image2.png)
-![Image](images/image3.png)
-![Image](images/image4.png)
-![Image](images/image5.png)
-![Image](images/image6.png)
-![Image](images/image7.png)
+<img width="979" height="532" alt="Image" src="https://github.com/user-attachments/assets/14a89231-658c-4683-8459-a8d03e27753b" />
+<img width="979" height="516" alt="Image" src="https://github.com/user-attachments/assets/f34a79d8-2701-4043-9acf-7e6ffebe79a1" />
+<img width="979" height="544" alt="Image" src="https://github.com/user-attachments/assets/caec0d44-891c-4e79-896c-cc85d8467130" />
+<img width="979" height="452" alt="Image" src="https://github.com/user-attachments/assets/8ad07455-5ca4-4a4d-8087-a3f8af2b034a" />
+<img width="979" height="392" alt="Image" src="https://github.com/user-attachments/assets/b5f0132c-3778-4098-a3e3-a8be492b6fa6" />
+<img width="911" height="254" alt="Image" src="https://github.com/user-attachments/assets/682a3bca-5411-4313-8ea8-64c91e1911e3" />
+<img width="881" height="283" alt="Image" src="https://github.com/user-attachments/assets/065c38ce-ad3b-4a14-9d6f-ae1226d5395f" />
 
 
 
@@ -466,4 +466,5 @@ Output (7 disease classes)
 - **Performance Optimization**: Sub-second response times
 
 ---
+
 
